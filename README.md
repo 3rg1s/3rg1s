@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: I was born in AL and live in GR
+
 <!--
 **3rg1s/3rg1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
