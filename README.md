@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-⚡ Fun fact: I was born in AL and live in GR
+[![Github stats](https://github-readme-stats.vercel.app/api?username=3rg1s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **3rg1s/3rg1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
